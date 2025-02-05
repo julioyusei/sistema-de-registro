@@ -8,3 +8,4 @@
 Para ejecutar el sistema, debes poner:
 
 ```install react```
+Sistema de Registro 2.
