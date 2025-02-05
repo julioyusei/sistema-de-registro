@@ -4,3 +4,7 @@
    </p>
 
 - Estado del proyecto:    :construction: En construcción :construction:
+
+Para ejecutar el sistema, debes poner:
+
+```install react```
